@@ -1,3 +1,9 @@
+# CREADORES DE LA TIENDA ONLINE
+
+- SERGIO ANDRES JEREZ PINZON
+- DRIVER (agrgee su nombre completo)
+
+
 # CREDENCIALES ACCESO A ADMIN
 
 **Correo:** admin@zapatoflex.co  
